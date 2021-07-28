@@ -1,0 +1,37 @@
+[I 16:56:45.855 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-28 16:56:47.652 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.652 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.652 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.652 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-28 16:56:47.653 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-28 16:56:47.653 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-28 16:56:47.653 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-28 16:56:47.663 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-28 16:56:47.663 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 16:56:47.673 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 16:56:47.674 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 16:56:47.676 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 16:56:47.676 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 16:56:47.676 NotebookApp] http://jupyter-mksuha-2dshiny-2d7ky2opcq:8888/user/mksuha-shiny-7ky2opcq/?token=...
+[I 16:56:47.676 NotebookApp]  or http://127.0.0.1:8888/user/mksuha-shiny-7ky2opcq/?token=...
+[I 16:56:47.676 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:56:47.679 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:56:47.685 NotebookApp] 302 GET /user/mksuha-shiny-7ky2opcq/ (10.244.3.159) 3.150000ms
+[I 16:56:51.225 NotebookApp] 302 GET /user/mksuha-shiny-7ky2opcq/?token=pEciAQbYTueRLvjhmll5-w (65.24.226.75) 0.790000ms
+/usr/lib/rstudio-server/bin/rsession: Relink `/srv/conda/envs/notebook/lib/R/lib/../.././libgfortran.so.4' with `/lib/x86_64-linux-gnu/librt.so.1' for IFUNC symbol `clock_gettime'
+[I 17:04:23.303 NotebookApp] Uploading file to /regrex1.csv
+[I 17:15:03.694 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[W 17:34:30.669 NotebookApp] delete /shinyR
+[I 17:34:39.117 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 17:36:49.159 NotebookApp] Saving file at /binder/start
+[I 17:40:58.557 NotebookApp] Saving file at /gitignore
