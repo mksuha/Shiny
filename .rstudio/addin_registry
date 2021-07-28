@@ -4,7 +4,7 @@
         "description" : "Copies the console output of a selected expression to the system clipboard",
         "interactive" : false,
         "name" : "Output to clipboard",
-        "ordinal" : 4,
+        "ordinal" : 2,
         "package" : "clipr",
         "title" : ""
     },
@@ -13,7 +13,7 @@
         "description" : "Copies the results of a selected expression to the system clipboard",
         "interactive" : false,
         "name" : "Value to clipboard",
-        "ordinal" : 3,
+        "ordinal" : 1,
         "package" : "clipr",
         "title" : ""
     },
@@ -22,7 +22,7 @@
         "description" : "Calculates the package test coverage and opens a report, using `covr::report()`",
         "interactive" : false,
         "name" : "Calculate package test coverage",
-        "ordinal" : 5,
+        "ordinal" : 9,
         "package" : "covr",
         "title" : ""
     },
@@ -31,7 +31,7 @@
         "description" : "A wrapper for `roxygen`'s `roxygen2::roxygenize()`",
         "interactive" : true,
         "name" : "Document a package",
-        "ordinal" : 9,
+        "ordinal" : 8,
         "package" : "devtools",
         "title" : ""
     },
@@ -40,7 +40,7 @@
         "description" : "Run the current test file, using `devtools::test_active_file()`.",
         "interactive" : true,
         "name" : "Run a test file",
-        "ordinal" : 6,
+        "ordinal" : 5,
         "package" : "devtools",
         "title" : ""
     },
@@ -49,7 +49,7 @@
         "description" : "Calculate and report the test coverage for the current package, using `devtools::test_coverage()`.",
         "interactive" : true,
         "name" : "Report test coverage for a package",
-        "ordinal" : 8,
+        "ordinal" : 7,
         "package" : "devtools",
         "title" : ""
     },
@@ -58,7 +58,7 @@
         "description" : "Calculate and report test coverage for the current test file, using `devtools::test_coverage_active_file()`.",
         "interactive" : true,
         "name" : "Report test coverage for a file",
-        "ordinal" : 7,
+        "ordinal" : 6,
         "package" : "devtools",
         "title" : ""
     },
@@ -67,7 +67,7 @@
         "description" : "Run `reprex::reprex()` to prepare a reproducible example for sharing.",
         "interactive" : true,
         "name" : "Render reprex...",
-        "ordinal" : 1,
+        "ordinal" : 3,
         "package" : "reprex",
         "title" : ""
     },
@@ -76,7 +76,7 @@
         "description" : "Prepare reprex from current selection",
         "interactive" : false,
         "name" : "Reprex selection",
-        "ordinal" : 2,
+        "ordinal" : 4,
         "package" : "reprex",
         "title" : ""
     }

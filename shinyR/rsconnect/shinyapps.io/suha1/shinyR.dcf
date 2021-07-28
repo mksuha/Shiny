@@ -1,0 +1,13 @@
+name: shinyR
+title: shinyR
+username:
+account: suha1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4434062
+bundleId: 4865918
+url: https://suha1.shinyapps.io/shinyR/
+when: 1627504212.48682
+lastSyncTime: 1627504212.48683
+asMultiple: FALSE
+asStatic: FALSE
